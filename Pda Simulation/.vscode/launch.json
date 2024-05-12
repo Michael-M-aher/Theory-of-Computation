@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PDASimulation",
+      "request": "launch",
+      "mainClass": "PDASimulation",
+      "projectName": "Pda Simulation_6c946ba2"
+    },
+    {
+      "type": "java",
+      "name": "PDASimulation",
+      "request": "launch",
+      "mainClass": "PDASimulation",
+      "projectName": "Pda Simulation_d8dd79e0"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Pda Simulation_d8dd79e0"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Pda Simulation_6c946ba2"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/Projects/C++/Compilers/code-generation",
+      "program": "e:/Projects/C++/Compilers/code-generation/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

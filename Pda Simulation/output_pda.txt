@@ -7,16 +7,15 @@ x
 
 2
 accepted
-not accepted
-not accepted
 accepted
+not accepted
+not accepted
 x
 
 3
 accepted
+accepted
 not accepted
-accepted
-accepted
 not accepted
 x
 
@@ -24,6 +23,5 @@ x
 accepted
 accepted
 not accepted
-accepted
 x
 
